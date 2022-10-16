@@ -145,12 +145,7 @@ function InputForm(props) {
     <div>
       <div className={classes.header}>
         <div className="title">
-          <Typed
-            strings={["Salary predict with data form"]}
-            typeSpeed={40}
-            backSpeed={80}
-            loop
-          />
+          <Typed strings={["Data form"]} typeSpeed={40} backSpeed={80} loop />
         </div>
         <div className={classes.modes} onClick={handleChangeMode}>
           <ArrowBackIosOutlinedIcon className={classes.backicon} />
