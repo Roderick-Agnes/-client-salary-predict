@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Open-Sans',sans-serif;
+  color: #343a4a;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 0 80px;
+  background-image: url(https://reactify.theironnetwork.org/static/media/boxed-bg.1fa5de4f.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

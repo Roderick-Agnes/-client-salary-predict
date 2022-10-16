@@ -1,0 +1,25 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    min-width: 380px;
+    // padding: 1.5em;
+    
+}
+.title {
+    border-left: 3px solid #2196f3;
+    padding-left: 0.5em;
+    text-transform: uppercase;
+    font-weight: "bold";
+    font-size: 1rem;
+    letter-spacing: 3px;
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    display: "flex";
+    justify-content: "flex-start";
+    align-items: "center";
+}
+.standard-basic-input-item {
+    
+}
